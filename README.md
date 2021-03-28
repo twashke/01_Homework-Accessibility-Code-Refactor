@@ -9,7 +9,7 @@ To increase the search rankings of the Horiseon website and make it more accessi
 - [About the Project](#about-the-project)
 - [Installation](#installation)
 - [Credit](#credit)
-- [Licenses](#licenses)
+- [License](#license)
 
 ## About the Project
 
