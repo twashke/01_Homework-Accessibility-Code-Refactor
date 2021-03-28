@@ -7,7 +7,7 @@ To increase the search rankings of the Horiseon website and make it more accessi
 ## Table of Contents 
 
 - [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
+- [Installation](#installation)
 - [Credit](#credit)
 - [Licenses](#licenses)
 
@@ -20,14 +20,18 @@ To increase the search rankings of the Horiseon website and make it more accessi
 - Broken links found in the project have been fixed to ensure that all links work as they were intended.
 - By refactoring the existing code, the website is now more accessible to a wider range of users, allowing the website to rank higher on search engines.
 
-## Getting Started
+## Installation
 
-- Open index.html in your internet browser.
+1. Open index.html in your internet browser.
+2. Hover over pictures to see accessibility improvements.
 
-- ![Search image accessibility](assests/image/search-screenshot.png)
-- ![Online image accessibility](assests/image/online-screenshot.png)
-- ![Social image accessibility](assests/image/social-screenshot.png)
-- ![Cost image accessibility](assests/image/cost-screenshot.png)
+![Search image accessibility](assets/images/search-screenshot.png) \
+\
+![Online image accessibility](assets/images/online-screenshot.png) \
+\
+![Social image accessibility](assets/images/social-screenshot.png) \
+\
+![Cost image accessibility](assets/images/cost-screenshot.png) 
 
 ## Credit
 
