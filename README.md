@@ -24,11 +24,11 @@ To increase the search rankings of the Horiseon website and make it more accessi
 
 - Open index.html in your internet browser.
 
-Provide instructions and examples for use. Include screenshots as needed.
-nshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    
+- ![Search image accessibility](assests/image/search-screenshot.png)
+- ![Online image accessibility](assests/image/online-screenshot.png)
+- ![Social image accessibility](assests/image/social-screenshot.png)
+- ![Cost image accessibility](assests/image/cost-screenshot.png)
+
 ## Credit
 
 - Existing code created by Horiseon. 
