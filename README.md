@@ -8,6 +8,7 @@ To increase the search rankings of the Horiseon website and make it more accessi
 
 - [About the Project](#about-the-project)
 - [Installation](#installation)
+- [Usage](#usage)
 - [Credit](#credit)
 - [License](#license)
 
@@ -22,8 +23,11 @@ To increase the search rankings of the Horiseon website and make it more accessi
 
 ## Installation
 
-1. Open index.html in your internet browser.
-2. Hover over pictures to see accessibility improvements.
+- Open index.html in your internet browser.
+
+## Usage
+
+- Hover over pictures to see accessibility improvements.
 
 ![Search image accessibility](assets/images/search-screenshot.png) \
 \
