@@ -1,4 +1,4 @@
-# 01_Homework - Accessibility Code Refactor
+# Accessibility Code Refactor
 
 ## Project Description
 
@@ -23,7 +23,8 @@ To increase the search rankings of the Horiseon website and make it more accessi
 
 ## Installation
 
-- Open index.html in your internet browser.
+- Open [Horiseon Website](https://twashke.github.io/01_Homework-Accessibility-Code-Refactor/) 
+- Or, open index.html in your internet browser.
 
 ## Usage
 
